@@ -1,0 +1,12 @@
+<svg width="400" height="220" viewBox="0 0 400 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cover-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="220" fill="url(#cover-grad)"/>
+  <rect x="16" y="16" width="368" height="188" rx="24" fill="rgba(255,255,255,0.05)"/>
+  <text x="200" y="92" font-family="Outfit, sans-serif" font-size="26" fill="#ffffff" text-anchor="middle">Food Ordering UI/UX</text>
+  <text x="200" y="128" font-family="Outfit, sans-serif" font-size="16" fill="#dbeafe" text-anchor="middle">Mobile Food Ordering App</text>
+</svg>
